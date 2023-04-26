@@ -1,0 +1,7 @@
+﻿  DemerittCalendercpp.cpp
+C:\School\Spring 2023\CPT-182 Programming with C++\Projects\CalanderAssignment\CalanderAssignment\DemerittCalendercpp.cpp(130,42): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\School\Spring 2023\CPT-182 Programming with C++\Projects\CalanderAssignment\CalanderAssignment\DemerittCalendercpp.cpp(134,21): warning C4018: '<': signed/unsigned mismatch
+C:\School\Spring 2023\CPT-182 Programming with C++\Projects\CalanderAssignment\CalanderAssignment\DemerittCalendercpp.cpp(151,17): warning C4018: '<=': signed/unsigned mismatch
+C:\School\Spring 2023\CPT-182 Programming with C++\Projects\CalanderAssignment\CalanderAssignment\DemerittCalendercpp.cpp(153,10): warning C4018: '>': signed/unsigned mismatch
+C:\School\Spring 2023\CPT-182 Programming with C++\Projects\CalanderAssignment\CalanderAssignment\DemerittCalendercpp.cpp(178,12): warning C4018: '>': signed/unsigned mismatch
+  CalanderAssignment.vcxproj -> C:\School\Spring 2023\CPT-182 Programming with C++\Projects\CalanderAssignment\x64\Debug\CalanderAssignment.exe
